@@ -1,0 +1,5 @@
+gj013452	0	ahmd
+gj022341	1	rajkot
+rj091234	1	chitor
+hyd2134	        1	hyderabad
+sd23	        1	ffd
