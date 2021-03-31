@@ -80,7 +80,7 @@ int main()
 	 
        while( fscanf( file,"%s%d%s",tempVehicleNumber,&tempVehicleOnRent,tempVehicleBranchName )!=EOF)
 	{
-            printf("%s\t%d\n",tempVehicleNumber, tempVehicleOnRent);
+            //printf("%s\t%d\n",tempVehicleNumber, tempVehicleOnRent);
             vehicleHead = addVehicle( tempVehicleNumber,&tempVehicleOnRent, vehicleHead );
 	    branchHead = addBranch( tempVehicleBranchName, branchHead );
 	}
