@@ -6,7 +6,7 @@
 struct vehicleNode
 {
 	char vehicleNumber[ 10 ];  
-	bool  vehicleOnRent;            
+	int  vehicleOnRent;            
         struct vehicleNode* nextVehicleInfo;
 };
 
@@ -14,6 +14,6 @@ struct vehicleNode
 
 
 struct vehicleNode* addVehicle();
-void removeVehicle();
+struct vehicleNode* removeVehicle();
 void displayVehicle();
 

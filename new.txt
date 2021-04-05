@@ -3,3 +3,12 @@ gj022341	1	rajkot
 rj091234	1	chitor
 hyd2134	        1	hyderabad
 sd23	        1	ffd
+gj01234	1	priya
+2345	0	sdfg
+sfj3565	0	qwer
+22	0	dfs
+12	0	aa
+34	0	djj
+23	49	fdg
+12	49	ss
+2	49	sd
